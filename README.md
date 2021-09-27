@@ -184,7 +184,7 @@ Come up with **three project ideas** and answer the following questions for each
 
 ###### What should I cover during my presentation?
 
-Project presentations will start at **9:30am** on **Monday, September 27th, 2021**. Each presentation should be **15 minutes or less** and cover the following:
+Project presentations will start at **9:30am** on **Monday, September 27th, 2021**. Each presentation should be **10 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * App summary
