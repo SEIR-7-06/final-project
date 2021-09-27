@@ -146,7 +146,7 @@ Come up with **three project ideas** and answer the following questions for each
 * A **working application that satisfies a user's need - a minimum viable product**
 * A **git repository hosted on Github**, with frequent commits dating back to the beginning of the project.
 * **A `README.md` file** with:
-  * A **link to your hosted working app**.
+  * A **link to your hosted working app** if deployed.
   * A paragraph-long **description** (elevator pitch) of your project.
   * A list of the **technologies used**.
   * A list of **installation steps** for the app itself and any dependencies - how would another developer run your site locally?
