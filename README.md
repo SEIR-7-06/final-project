@@ -187,9 +187,10 @@ Come up with **three project ideas** and answer the following questions for each
 Project presentations will start at **9:30am** on **Monday, September 27th, 2021**. Each presentation should be **10 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
-* App summary
-* Demo of your project's core functionality.
+* App summary (Elevator Pitch)
+* Demo of your project's core functionality
 * What is one feature you're particularly proud of? (show code)
 * Challenges you faced
+* Triumphs you would like to share
 * Shout-outs!
 
